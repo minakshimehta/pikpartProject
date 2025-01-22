@@ -49,8 +49,8 @@ export default {
   font-family: 'Poppins', sans-serif;
   padding: 20px;
   text-align: center;
-  background-color: #f4f7f6; /* Soft background color */
-  color: #333; /* Dark text for contrast */
+  background-color: #f4f7f6; 
+  color: #333; 
 }
 
 h1, h2, h3 {

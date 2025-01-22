@@ -32,7 +32,7 @@
     data() {
       return {
         quantity: 1,
-        defaultImage: "https://via.placeholder.com/150", // Fallback image
+        defaultImage: "https://via.placeholder.com/150", 
       };
     },
     methods: {
